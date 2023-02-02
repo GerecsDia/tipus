@@ -31,4 +31,5 @@ console.log(typeof pista)
 
 var szamok = [25, 30, 40];
 console.log(typeof szamok);
+
 var nevek = ['Pisti', 'Pali', 'Dani'];
